@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Приклад простого документа</title>
 </head>
 <body bgcolor="E1EDEC">
 <h1><b><font color="7C5A66"><font>Привіт! Це мій перший сайт! </b></h1>
